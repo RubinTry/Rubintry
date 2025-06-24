@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=「What's+done,+will+redo.」;「已有的事，后必再有。已行的事，后必再行」)](https://git.io/typing-svg)
 
-- 🔭 目前正在开发: [你的重点项目名称](项目链接)
 - 🌱 正在学习: 新技术/框架 (比如 React Native, Go 等)
 - 💬 可以问我关于: Web 开发、JavaScript、Python 等
 - 📫 如何联系我: [你的邮箱] 或 [Twitter/LinkedIn 链接]

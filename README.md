@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=「码梦为路，星辰为引」)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=「已有的事，后必再有。已行的事，后必再行」)](https://git.io/typing-svg)
 
 <!--
 **rubintry/rubintry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

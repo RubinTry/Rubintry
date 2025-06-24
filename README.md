@@ -2,10 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=「What's+done,+will+redo.」;「已有的事，后必再有。已行的事，后必再行」)](https://git.io/typing-svg)
 
-- 🌱 正在学习: 新技术/框架 (比如 React Native, Go 等)
-- 💬 可以问我关于: Web 开发、JavaScript、Python 等
-- 📫 如何联系我: [你的邮箱] 或 [Twitter/LinkedIn 链接]
-- ⚡ 有趣的事: 比如"我其实最初是学艺术的"之类的个人趣事
+- 🌱 正在使用  : 新技术/框架 (比如 flutter、vue、uniapp 等)
+- 📫 如何联系我: [13857769302@163.com](13857769302@163.com)
+- ⚡ 口头禅  : 已有的事，后必再有。已行的事，后必再行
 
 ### 🛠 技术栈
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)

@@ -12,7 +12,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-398CEE?style=flat&logo=flutter&logoColor=blue)
-![Flutter](https://img.shields.io/badge/-Android-339933?style=flat&logo=android&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-339933?style=flat&logo=android&logoColor=white)
 
 ### 📈 GitHub 统计
 
